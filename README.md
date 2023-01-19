@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on building up my computer science and programming knowledge
+- 🎓 Currently studying at UBC (CS)
 - 🌱 I’m currently learning Java
 - 👯 I’m looking to collaborate on any creative projects involving coding, photography/videography etc.
 - 🤔 I’m looking for help with learning Java, applying for internships
