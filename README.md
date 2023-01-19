@@ -1,9 +1,7 @@
 ### Hi there 👋
 
-<!--
-**KwanF/KwanF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+**KwanF/KwanF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 - 🔭 I’m currently working on building up my computer science and programming knowledge
 - 🌱 I’m currently learning Java
@@ -13,4 +11,4 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Instagram @kwan_fvng
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: I got my pilot's license at 17
--->
+
